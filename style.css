@@ -97,13 +97,13 @@ div.borderXwidth a:hover:after {
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
 
-.brand-box {
+.ttg-box {
     position: absolute;
     top: 40px;
     left: 40px;
 }
 
-.brand {
+.ttg {
     font-size: 20px;
 }
 
@@ -115,7 +115,7 @@ div.borderXwidth a:hover:after {
     text-align: center;
 }
 
-.circle1 {
+.ttglogo {
     height: 20vw;
     width: 30vw;
     background-image: url("images/WhatsApp\ Image\ 2021-07-10\ at\ 12.43.46\ PM.jpeg");
@@ -512,7 +512,7 @@ div.borderXwidth a:hover:after {
     bottom: -100px;
     left: 0;
     transition: all 0.5s ease 0s;
-  }
+  }r4 essssssss
   
   .contact-us:hover .social {
     bottom: 0;
