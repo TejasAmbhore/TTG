@@ -120,7 +120,7 @@ div.borderXwidth a:hover:after {
     background-image: url("images/WhatsApp\ Image\ 2021-07-10\ at\ 12.43.46\ PM.jpeg");
     background-size: cover;
     position: relative;
-    top: 0;
+    top: 50px;
     right: 0vw;
 }
 
@@ -495,7 +495,7 @@ div.borderXwidth a:hover:after {
   .contact-us {
     padding: 30px 0 40px;
     margin-bottom: 30px;
-    background-color: #f7f5ec;
+    background-color:#70d2d5;
     text-align: center;
     overflow: hidden;
     position: relative;
