@@ -59,7 +59,7 @@ div.borderXwidth a:hover:after {
     width: 100%;
 }
 
-@media screen and (max-width: 682px) {
+@media screen and (max-width: 750px) {
     .topnav a:not(:first-child) {
         display: none;
     }
@@ -70,7 +70,7 @@ div.borderXwidth a:hover:after {
     }
 }
 
-@media screen and (max-width: 682px) {
+@media screen and (max-width: 750px) {
     .topnav.responsive {
         position: relative;
     }
@@ -443,7 +443,7 @@ div.borderXwidth a:hover:after {
 .item {
     display: inline-block;
     background: #fff;
-    padding: 1em;
+    padding: 5px;
     margin: 0 0 1.5em;
     width: 100%;
 	-webkit-transition:1s ease all;
