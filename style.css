@@ -453,6 +453,10 @@ div.borderXwidth a:hover:after {
     box-shadow: 2px 2px 4px 0 #ccc;
 }
 .item img{max-width:100%;}
+.item:hover {
+    -webkit-transform:scale(1.5);
+    transform: scale(1.5);
+}
 
 @media only screen and (max-width: 320px) {
     .masonry {
