@@ -1,3 +1,3 @@
 # TTG
-## Techbology Transfer Group
+## Technology Transfer Group
 ### selction task
